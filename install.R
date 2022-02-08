@@ -1,0 +1,7 @@
+install.packages("readr")
+install.packages("dplyr")
+install.packages("stringr")
+install.packages("tidytext")
+install.packages("SnowballC")
+install.packages("vader")
+install.packages("ggplot2")
