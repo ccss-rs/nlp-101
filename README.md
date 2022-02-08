@@ -4,7 +4,7 @@ Welcome to the NLP 101 workshop offered by the Cornell Center of Social Sciences
 
 ---
 
-Text Preprocessing Demo: [![Binder](https://hub.gke2.mybinder.org/user/remypstewart-nlp_101_workshop-7pjs2kux/doc/workspaces/auto-8/tree/nlp_101_demo_1_text_preprocessing.ipynb)
+Text Preprocessing Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_1_text_preprocessing.ipynb)
 
 Text Preprocessing Demo Solutions:
 
