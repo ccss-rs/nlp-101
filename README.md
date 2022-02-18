@@ -10,6 +10,6 @@ Text Preprocessing Demo Solutions: [![Binder](https://mybinder.org/badge_logo.sv
 
 ---
 
-Sentiment Analysis Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/remypstewart-nlp_101_workshop-70fx8gha/doc/workspaces/auto-m/tree/nlp_101_demo_2_sentiment_analysis.ipynb)
+Sentiment Analysis Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_2_sentiment_analysis.ipynb)
 
 Sentiment Analysis Demo Solutions: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_2_sentiment_analysis_solutions.ipynb)
