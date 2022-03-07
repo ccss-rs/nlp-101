@@ -4,12 +4,14 @@ Welcome to the NLP 101 workshop offered by the Cornell Center of Social Sciences
 
 ---
 
-Text Preprocessing Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_1_text_preprocessing.ipynb)
+Text Preprocessing Demo: [![Binder](https://mybinder.org/badge_logo.svg)]()
 
-Text Preprocessing Demo Solutions: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_1_text_preprocessing_solutions.ipynb)
+Text Preprocessing Demo Solutions: [![Binder](https://mybinder.org/badge_logo.svg)]()
 
 ---
 
-Sentiment Analysis Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_2_sentiment_analysis.ipynb)
+Sentiment Analysis Demo: [![Binder](https://mybinder.org/badge_logo.svg)]()
 
-Sentiment Analysis Demo Solutions: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/remypstewart/nlp_101_workshop/main?labpath=nlp_101_demo_2_sentiment_analysis_solutions.ipynb)
+Sentiment Analysis Demo Solutions: [![Binder](https://mybinder.org/badge_logo.svg)]()
+
+## Check out the [written user guide](https://ccss-rs.github.io/nlp-for-socsci/index.html) version of this workshop for more content!
